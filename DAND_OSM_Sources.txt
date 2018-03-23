@@ -1,0 +1,10 @@
+Sources consulted:
+
+Definition of the Greater Toronto Area:
+https://en.wikipedia.org/wiki/List_of_municipalities_in_the_Greater_Toronto_Area
+
+MongoDB Udacity Example
+https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+
+GitHub Example:
+https://github.com/bestkao/data-wrangling-with-openstreetmap-and-mongodb
