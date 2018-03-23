@@ -1,0 +1,7 @@
+Link to map position where download was made:
+
+https://mapzen.com/data/metro-extracts/
+In the link above, type in Toronto, and select the entire region indicated in the red square. Not all areas covered in this area
+were part of the Greater Toronto Area as defined within this link: https://en.wikipedia.org/wiki/List_of_municipalities_in_the_Greater_Toronto_Area
+
+
